@@ -2,7 +2,7 @@
 
 <div>
     <div>A Computer Science student who loves to learn new things... 💻 </div>
-    <div>Start as a programmer since 2022</div>
+    <div></div>
     <div>🌱 I’m currently focusing on learning React.js and React Native</div>
 </div>
 
