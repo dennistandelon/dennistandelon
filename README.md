@@ -1,5 +1,5 @@
 ### ABOUT ME
-Hello 👋 I'm @Mioshido30 </br>
+Hello 👋 I'm <a href='https://github.com/Mioshido30/Mioshido30'>@Mioshido30</a> </br>
 A Computer Science student who loves to learn new things... 💻 </br>
 🌱 I’m currently learning React.js and React Native </br>
 
