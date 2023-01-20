@@ -1,9 +1,13 @@
-### ABOUT ME
-Hello 👋 I'm <a href='https://github.com/Mioshido30/Mioshido30'>@Mioshido30</a> </br>
-A Computer Science student who loves to learn new things... 💻 </br>
-🌱 I’m currently learning React.js and React Native </br>
+### Hello 👋, I'm Dennis Tandelon
 
-### SKILLS
+<div>
+    <div>A Computer Science student who loves to learn new things... 💻 </div>
+    <div>Start as a programmer since 2022</div>
+    <div>🌱 I’m currently focusing on learning React.js and React Native</div>
+</div>
+
+
+### What I have Learned
 <div>
   <ul>
     <li>C and C++ with Dev-C++</li>
@@ -15,7 +19,5 @@ A Computer Science student who loves to learn new things... 💻 </br>
     <li>Basic Computer Network with Cisco Packet Tracer</li>
   </ul>
 </div>
-
-
 
 
