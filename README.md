@@ -22,8 +22,6 @@
 
 ### How to reach me?
 <div>
-    <ul>
-        <li style="decoration:none">LinkedIn : <a href="https://www.linkedin.com/in/dennis-tandelon-101727225/">Dennis Tandelon</a><li>
-    </ul>
+    <div>LinkedIn : <a href="https://www.linkedin.com/in/dennis-tandelon-101727225/">Dennis Tandelon</a></div>
 </div>
 
