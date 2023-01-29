@@ -3,7 +3,7 @@
 <div>
     <div>A Computer Science student who loves to learn new things... 💻 </div>
     <div></div>
-    <div>🌱 I’m currently focusing on learning React.js and React Native</div>
+    <div>🌱 I’m currently focusing on learning React(React.js and React Native)</div>
 </div>
 
 
@@ -20,4 +20,10 @@
   </ul>
 </div>
 
+### How to reach me?
+<div>
+    <ul>
+        <li>LinkedIn : <a href="https://www.linkedin.com/in/dennis-tandelon-101727225/">Dennis Tandelon</a><li>
+    </ul>
+</div>
 
