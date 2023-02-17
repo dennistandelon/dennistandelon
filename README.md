@@ -21,7 +21,10 @@
 </div>
 
 ### How to reach me?
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div>
     <div>LinkedIn : <a href="https://www.linkedin.com/in/dennis-tandelon-101727225/">Dennis Tandelon</a></div>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dennis-tandelon-101727225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/dennis-tandelon-101727225/en?trk=profile-badge">Dennis Tandelon</a></div>
+              
 </div>
 
