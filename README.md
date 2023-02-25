@@ -19,9 +19,3 @@
     <li>Basic Computer Network with Cisco Packet Tracer</li>
   </ul>
 </div>
-
-### How to reach me?
-<div>
-    <div>LinkedIn : <a href="https://www.linkedin.com/in/dennis-tandelon-101727225/">Dennis Tandelon</a></div>
-</div>
-
