@@ -20,5 +20,6 @@
     <li>Entity Relational Diagram and Unified Modeling Language Diagram using Visual Paradigm and starUML</li>
     <li>Basic Computer Networking using Cisco Packet Tracer</li>
     <li>Basic CLI Command for Windows and KALI Linux</li>
+    <li>Customer Relationship Management using Salesforce</li>
   </ul>
 </div>
