@@ -11,7 +11,7 @@
 <div>
   <ul>
     <li>C and C++ using Dev-C++ for Competitive Programming</li>
-    <li>Java using Eclipse, Netbeans</li>
+    <li>Java Object Oriented Programming using Eclipse, Netbeans</li>
     <li>Database Query using XAMPP, Microsoft SSMS, DB Browser</li>
     <li>Web and Application Prototype Design using Figma</li>
     <li>API Development using ASP.NET Core</li>
