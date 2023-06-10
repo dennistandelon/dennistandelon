@@ -14,12 +14,15 @@
     <li>Java Object Oriented Programming using Eclipse, Netbeans</li>
     <li>Database Query using XAMPP, Microsoft SSMS, DB Browser</li>
     <li>Web and Application Prototype Design using Figma</li>
-    <li>API Development using ASP.NET Core</li>
-    <li>Python for Scientific Computing using Google Collab, Jupyter Notebook</li>
+    <li>API Development using ASP.NET Core, Express JS and Firebase</li>
+    <li>Python for Scientific Computing, Computational Biology (DNA Sequencing) using Google Collab, Jupyter Notebook</li>
+    <li>Computational Physics (Electric Circuit) Using Python Power Electronics</li>
     <li>Basic Frontend using HTML, CSS, Javascript</li>
     <li>Entity Relational Diagram and Unified Modeling Language Diagram using Visual Paradigm and starUML</li>
     <li>Basic Computer Networking using Cisco Packet Tracer</li>
     <li>Basic CLI Command for Windows and KALI Linux</li>
     <li>Customer Relationship Management using Salesforce</li>
+    <li>Basic Machine Learning using Python in Kaggle Platform</li>
+    <li>Mobile Android Development using React Native, Expo</li>
   </ul>
 </div>
