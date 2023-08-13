@@ -7,22 +7,21 @@
 </div>
 
 
-### What I have Learned so Far
+### What I have Learned
 <div>
-  <ul>
-    <li>C and C++ using Dev-C++ for Competitive Programming</li>
-    <li>Java Object Oriented Programming using Eclipse, Netbeans</li>
-    <li>Database Query using XAMPP, Microsoft SSMS, DB Browser</li>
-    <li>Web and Application Prototype Design using Figma</li>
-    <li>API Development using ASP.NET Core, Express JS and Firebase</li>
-    <li>Python for Scientific Computing, Computational Biology (DNA Sequencing) using Google Collab, Jupyter Notebook</li>
-    <li>Computational Physics (Electric Circuit) Using Python Power Electronics</li>
-    <li>Basic Frontend using HTML, CSS, Javascript</li>
-    <li>Entity Relational Diagram and Unified Modeling Language Diagram using Visual Paradigm and starUML</li>
-    <li>Basic Computer Networking using Cisco Packet Tracer</li>
-    <li>Basic CLI Command for Windows and KALI Linux</li>
-    <li>Customer Relationship Management using Salesforce</li>
-    <li>Basic Machine Learning using Python in Kaggle Platform</li>
-    <li>Mobile Android Development using React Native, Expo</li>
-  </ul>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=40 width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height=40 width=40 />
 </div>
+              
+
+### Connect With Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dennis.tandelon)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=flat&logo=instagram&logoColor=white&color=0D76A0)](https://www.linkedin.com/in/dennistandelon)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-Profile?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/in/dennistandelon)
