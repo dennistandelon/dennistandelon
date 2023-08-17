@@ -30,10 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height=40 width=40 />
 </div>
 
-### Github Stats
-
-[![Dennis GitHub stats](https://github-readme-stats.vercel.app/api?username=Mioshido30&hide=stars)](https://github.com/Mioshido30/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mioshido30&layout=compact)](https://github.com/Mioshido30/github-readme-stats)
-
 ### Connect With Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dennistandelon)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/dennis.tandelon/)
