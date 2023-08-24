@@ -1,13 +1,32 @@
-### Hello 👋, I'm Dennis Tandelon
-
-<div>
+<h1 align="center">
+    Hello 👋, I'm Dennis Tandelon    
+</h1> 
+<div align="center">
     <div>A Computer Science student who loves to learn new things... 💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
     <div>🌱 I’m currently focus on improving frontend development skill using React</div>
 </div>
+&nbsp;
+<div id="badges" align="center">
+  <a href="https://www.dennistandelon.my.id">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dennistandelon">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/dennis.tandelon/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.youtube.com/dennistandelon">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linktr.ee/dennistandelon">
+    <img src="https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
+</div>
 
-
-### Languages and Tools
+&nbsp;
+### Languages and Tools    
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 />
@@ -20,8 +39,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height=40 width=40/>
-</div>
-<div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=40 width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 width=40/>
@@ -30,10 +47,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height=40 width=40 />
 </div>
 
-### Connect With Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dennistandelon)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/dennis.tandelon/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-Profile?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/dennistandelon)
+&nbsp;
 
-<div>Linktree: <a href="https://linktr.ee/dennistandelon">Here</a></div>
-<div>My Personal Website: <a href="https://dennistandelon.my.id">Here</a></div>
+### Github Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mioshido30&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mioshido30&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
