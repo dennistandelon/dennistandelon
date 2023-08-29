@@ -4,7 +4,7 @@
 <div align="center">
     <div>A Computer Science student who loves to learn new things... 💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
-    <div>🌱 I’m currently focus on improving frontend development skill using React</div>
+    <div>🌱 I’m currently focus on learning Laravel</div>
 </div>
 &nbsp;
 <div id="badges" align="center">
