@@ -2,7 +2,7 @@
     Hello 👋, I'm Dennis Tandelon    
 </h1> 
 <div align="center">
-    <div>A Computer Science student who loves to learn new things... 💻 </div>
+    <div>A Computer Science student who love to learn new things... 💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
     <div>🌱 I’m currently focus on learning JavaFX and Laravel</div>
     <div>🔥🔥 Project Based Learning 🔥🔥</div>
@@ -25,7 +25,15 @@
     <img src="https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
   </a>
 </div>
+&nbsp;
 
+### About
+- 💻 Currently working as **Junior Programmer** at **BINUS IT Division** 
+- 📕 **Computer Science** Undergraduate Student at BINUS University 
+- 🌐 Mainly works in **Salesforce Service Cloud and Marketing Cloud** field, especially using **Apex** 
+- 🌱 Communicate in **English**, **中文**, and **Indonesia**
+- 📚 **Coding** and **Learning** as Main Hobby
+    
 &nbsp;
 ### Languages and Tools    
 <div>
@@ -52,6 +60,14 @@
 &nbsp;
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mioshido30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mioshido30&theme=dark&hide_border=false)<br><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mioshido30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mioshido30&show_icons=true&theme=transparent&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mioshido30&layout=compact&theme=transparent&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mioshido30&theme=transparant&hide_border=false)<br><br/>
+
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=mioshido30&label=Profile%20visit&color=0e75b6&style=flat" alt="mioshido30" /> 
+</p>
