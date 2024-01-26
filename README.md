@@ -4,7 +4,7 @@
 <div align="center">
     <div>A Computer Science student who love to learn new things... 💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
-    <div>🌱 I’m currently focus on learning JavaFX and Laravel</div>
+    <div>🌱 I’m currently focus on learning Flask and Docker</div>
     <div>🔥🔥 Project Based Learning 🔥🔥</div>
 </div>
 &nbsp;
