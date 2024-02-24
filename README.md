@@ -70,13 +70,13 @@
 
 ### 📊 GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mioshido30&show_icons=true&theme=transparent&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mioshido30&layout=compact&theme=transparent&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennistandelon&show_icons=true&theme=transparent&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennistandelon&layout=compact&theme=transparent&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mioshido30&theme=transparant&hide_border=false)<br><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dennistandelon&theme=transparant&hide_border=false)<br><br/>
 
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=mioshido30&label=Profile%20visit&color=0e75b6&style=flat" alt="mioshido30" /> 
+    <img src="https://komarev.com/ghpvc/?username=dennistandelon&label=Profile%20visit&color=0e75b6&style=flat" alt="dennistandelon" /> 
 </p>
