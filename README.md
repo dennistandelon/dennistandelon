@@ -1,8 +1,11 @@
 <h1 align="center">
     Hello 👋, I'm Dennis Tandelon    
 </h1> 
+   
+[![An image of @mioshido30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mioshido30)](https://holopin.io/@mioshido30)
+
 <div align="center">
-    <div>A Computer Science student who love to learn new things... 💻 </div>
+    <div>A Computer Science Enthusiast💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
     <div>🌱 I’m currently focus on learning Go</div>
     <div>🔥🔥 Project Based Learning 🔥🔥</div>
