@@ -7,7 +7,7 @@
 <div align="center">
     <div>A Computer Science Enthusiast💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
-    <div>🌱 I’m currently focus on learning Go</div>
+    <div>🌱 I’m currently focus on learning Machine Learning</div>
     <div>🔥🔥 Project Based Learning 🔥🔥</div>
 </div>
 &nbsp;
