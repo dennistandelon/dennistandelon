@@ -7,7 +7,7 @@
 <div align="center">
     <div>A Computer Science Enthusiast💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
-    <div>🌱 I’m currently focus on learning Machine Learning</div>
+    <div>🌱 I’m currently focus on Deep learning</div>
     <div>🔥🔥 Project Based Learning 🔥🔥</div>
 </div>
 &nbsp;
@@ -32,7 +32,7 @@
 
 ### About
 - 💻 Currently working as **Junior Programmer** at **BINUS IT Division** 
-- 📕 **Computer Science** Undergraduate Student at BINUS University 
+- 📕 **Information Technology** Master Student at BINUS University 
 - 🌐 Mainly works in **Salesforce Service Cloud and Marketing Cloud** field, especially using **Apex** 
 - 🌱 Communicate in **English**, **中文**, and **Indonesia**
 - 📚 **Coding** and **Learning** as Main Hobby
@@ -49,18 +49,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=40 width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height=40 width=40 />      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=40 width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height=40 width=40 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height=40 width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height=40 width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=40 width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 width=40/>
