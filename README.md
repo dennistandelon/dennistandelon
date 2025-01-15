@@ -33,9 +33,9 @@
 ### About
 - 💻 Currently working as **Junior Programmer** at **BINUS IT Division** 
 - 📕 **Information Technology** Master Student at BINUS University 
-- 🌐 Mainly works in **Salesforce Service Cloud and Marketing Cloud** field, especially using **Apex** 
+- 🌐 Mainly works in **Salesforce Service Cloud and Marketing Cloud** field, especially using **Apex** and **Javascript (LWC)**
 - 🌱 Communicate in **English**, **中文**, and **Indonesia**
-- 📚 **Coding** and **Learning** as Main Hobby
+- 📚 **Coding** and **Learning** as Hobby
     
 &nbsp;
 ### Languages and Tools    
@@ -79,9 +79,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennistandelon&show_icons=true&theme=transparent&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennistandelon&layout=compact&theme=transparent&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dennistandelon&theme=transparant&hide_border=false)<br><br/>
-
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=dennistandelon&label=Profile%20visit&color=0e75b6&style=flat" alt="dennistandelon" /> 
