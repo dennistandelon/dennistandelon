@@ -8,7 +8,7 @@
     <div>A Computer Science Enthusiast💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
     <div>🌱 I’m currently focus on Deep learning</div>
-    <div>🔥🔥 Project Based Learning 🔥🔥</div>
+    <div>🔥🔥 Open for collaboration and opportunity 🔥🔥</div>
 </div>
 &nbsp;
 <div id="badges" align="center">
@@ -35,7 +35,7 @@
 - 📕 **Information Technology** Master Student at BINUS University 
 - 🌐 Mainly works in **Salesforce Service Cloud and Marketing Cloud** field, especially using **Apex** and **Javascript (LWC)**
 - 🌱 Communicate in **English**, **中文**, and **Indonesia**
-- 📚 **Coding** and **Learning** as Hobby
+- 📚 **Learning** as Hobby
     
 &nbsp;
 ### Languages and Tools    
