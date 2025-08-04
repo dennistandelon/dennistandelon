@@ -7,7 +7,7 @@
 <div align="center">
     <div>A Computer Science Enthusiast💻 </div>
     <div>Starting learning programming from Q4 of 2021 and likes to code</div>
-    <div>🌱 I’m currently focus on Deep learning</div>
+    <div>🌱 I’m currently focus on Agentic AI</div>
     <div>🔥🔥 Open for collaboration and opportunity 🔥🔥</div>
 </div>
 &nbsp;
@@ -31,8 +31,8 @@
 &nbsp;
 
 ### About
-- 💻 Currently working as **Junior Programmer** at **BINUS IT Division** 
-- 📕 **Information Technology** Master Student at BINUS University 
+- 💻 Currently working as **Programmer** at **BINUS IT Division** 
+- 📕 **Information Technology** Master Student at BINUS University
 - 🌐 Mainly works in **Salesforce Service Cloud and Marketing Cloud** field, especially using **Apex** and **Javascript (LWC)**
 - 🌱 Communicate in **English**, **中文**, and **Indonesia**
 - 📚 **Learning** as Hobby
